@@ -1,3 +1,4 @@
+# ats-resume-optimizer
 # AI Resume Analyzer
 
 An intelligent, production-ready web application built with **React Router v8**, **Tailwind CSS v4**, and **TypeScript** for analyzing resumes and providing feedback/scores.
